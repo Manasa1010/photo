@@ -3,6 +3,7 @@ const World= Matter.World;
 const Bodies = Matter.Bodies;
 const Constraint=Matter.Constraint;
 var gameState="onsling";
+var backgroundImg;
 var bg="sprites/bg1.png";
 var score=0;
 
